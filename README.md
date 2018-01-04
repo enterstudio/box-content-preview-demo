@@ -13,9 +13,9 @@ Setup
 
 Important Files
 ---------------
-[How to import the Preview UI Element - index.js](src/index.js)
-[Webpack rules - webpack.config.js](webpack.config.js)
-[Babel config - .babelrc](.babelrc)
+[How to import the Preview UI Element - index.js](src/index.js)  
+[Webpack rules - webpack.config.js](webpack.config.js)  
+[Babel config - .babelrc](.babelrc)  
 [Packages and dependencies - package.json](package.json)
 
 # Questions
